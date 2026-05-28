@@ -2,7 +2,7 @@
 Projeto de Machine Learning aplicado ao dataset de seguros de saúde, cobrindo desde a análise exploratória até modelos supervisionados de regressão e métodos não supervisionados de agrupamento.
 
 📁 Dataset
-Fonte: Medical Cost Personal Dataset — Kaggle
+[Fonte: Medical Cost Personal Dataset — Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 O dataset contém informações sobre beneficiários de planos de saúde nos EUA, com as seguintes colunas:
 ColunaDescriçãoageIdade do beneficiáriosexSexo (male/female)bmiÍndice de massa corporalchildrenNúmero de filhossmokerFumante (yes/no)regionRegião residencial nos EUAchargesCustos médicos cobrados pelo plano (variável alvo)
 
@@ -54,7 +54,7 @@ bashpip install pandas numpy matplotlib seaborn scikit-learn xgboost kagglehub
 
 Clone o repositório:
 
-bashgit clone https://github.com/seu-usuario/seu-repositorio.git
+bashgit clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/celiosant/ML_Regress-o)
 cd seu-repositorio
 
 Instale as dependências:
